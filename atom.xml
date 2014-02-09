@@ -4,7 +4,7 @@
   <title><![CDATA[Enisher]]></title>
   <link href="http://enisher.github.io/atom.xml" rel="self"/>
   <link href="http://enisher.github.io/"/>
-  <updated>2014-02-09T11:45:12+02:00</updated>
+  <updated>2014-02-09T11:48:41+02:00</updated>
   <id>http://enisher.github.io/</id>
   <author>
     <name><![CDATA[Artem Orobets]]></name>
@@ -19,6 +19,15 @@
     <updated>2014-02-09T10:35:15+02:00</updated>
     <id>http://enisher.github.io/blog/2014/02/09/why-do-i-need-a-blog</id>
     <content type="html"><![CDATA[<p>The honest answer is: &ldquo;I don&rsquo;t know&rdquo;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Title]]></title>
+    <link href="http://enisher.github.io/blog/2014/02/09/the-title/"/>
+    <updated>2014-02-09T00:00:00+02:00</updated>
+    <id>http://enisher.github.io/blog/2014/02/09/the-title</id>
+    <content type="html"><![CDATA[<p>Lorem ipsum</p>
 ]]></content>
   </entry>
   
